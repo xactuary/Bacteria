@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 10px;
+    color: #0b1e88;
+  }
+.jumbotron {
+  background-color: #0b0c0b;
+    background-size: 100% 100%;
+    background-image: url("./bellylint.png");
+    text-align: center;
+}
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
